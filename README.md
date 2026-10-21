@@ -1,0 +1,1 @@
+# Fatigue-vs-bad-biomechanics-in-ice-hockey-POSTER
