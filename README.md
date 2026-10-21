@@ -5,7 +5,8 @@
 
 A concept for a system that shows ice hockey coaches **which skating movement breaks down, and when**, so that fatigue-related changes in technique can be caught before they turn into groin, hip or knee injuries.
 
-> **Status:** Concept based on desktop research. All example data shown is simulated.
+> [!NOTE]
+> Concept based on desktop research. All example data shown is simulated.
 
 ## Poster
 
