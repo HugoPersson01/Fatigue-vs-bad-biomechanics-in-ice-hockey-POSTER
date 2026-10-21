@@ -7,6 +7,18 @@ A concept for a system that shows ice hockey coaches **which skating movement br
 
 > **Status:** Concept based on desktop research. All example data shown is simulated.
 
+## Poster
+
+<p align="center">
+  <a href="Poster_A_Down_the_Ice_A1.pdf">
+    <img src="assets/poster_preview.png" alt="Poster: Which stride broke down – and when?" width="600">
+  </a>
+  <br>
+  <em>Click the poster to open the full-resolution A1 PDF.</em>
+</p>
+
+## System output
+
 ![System output: RTLS actions, skate IMU strides and the coach app](System_output_13.24x5.64in.png)
 
 ---
