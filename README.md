@@ -11,7 +11,7 @@ A concept for a system that shows ice hockey coaches **which skating movement br
 
 <p align="center">
   <a href="Poster_A_Down_the_Ice_A1.pdf">
-    <img src="assets/poster_preview.png" alt="Poster: Which stride broke down – and when?" width="600">
+    <img src="poster_preview.png" alt="Poster: Which stride broke down – and when?" width="600">
   </a>
   <br>
   <em>Click the poster to open the full-resolution A1 PDF.</em>
