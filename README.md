@@ -7,7 +7,7 @@ A concept for a system that shows ice hockey coaches **which skating movement br
 
 > **Status:** Concept based on desktop research. All example data shown is simulated.
 
-![System output: RTLS actions, skate IMU strides and the coach app](Poster_A_Down_Ice_A1.png)
+![System output: RTLS actions, skate IMU strides and the coach app](System_output_13.24x5.64in.png)
 
 ---
 
